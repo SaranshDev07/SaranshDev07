@@ -17,9 +17,7 @@ I'm a passionate mobile developer with expertise in **React Native**, **Flutter*
 I'm open to collaborations, discussions, or just chatting about tech. Feel free to reach out to me:
 
 - **Email**: saranshdev07@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
-- **Portfolio**: [Your Portfolio Website] (if applicable)
+
 
 ## 🚀 Fun Fact
 
