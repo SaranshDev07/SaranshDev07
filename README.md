@@ -6,11 +6,8 @@ I'm a passionate mobile developer with expertise in **React Native**, **Flutter*
 
 - **Frontend Mobile Development**: React Native, Flutter, Dart
 - **Backend & Database**: Firebase
-- **Native Development**: Kotlin (Android), Swift (iOS)
 - **Version Control**: Git, GitHub
 - **Other Tools**: Android Studio, Xcode, VS Code
-
-
 
 ## 📫 Let's Connect!
 
@@ -18,10 +15,9 @@ I'm open to collaborations, discussions, or just chatting about tech. Feel free 
 
 - **Email**: saranshdev07@gmail.com
 
-
 ## 🚀 Fun Fact
 
-When I'm not coding, I enjoy  hiking, exploring new coffee shops, games.
+I enjoy hiking, exploring new coffee shops and playing football when I'm not coding.
 
 ---
 
