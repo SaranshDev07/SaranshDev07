@@ -1,6 +1,6 @@
 # Hi there, I'm Saransh Gautam 👋
 
-I'm a passionate mobile developer with expertise in **React Native**, **Flutter**, **Dart**, **Firebase**, **Kotlin**, and **Swift**. I love building cross-platform mobile applications that deliver seamless user experiences.
+I'm a passionate mobile developer with expertise in **React Native**, **Flutter**, **Dart** and **Firebase**. I love building cross-platform mobile applications that deliver seamless user experiences.
 
 ## 🛠️ Technologies & Tools
 
