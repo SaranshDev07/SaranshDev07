@@ -23,7 +23,7 @@ I'm open to collaborations, discussions, or just chatting about tech. Feel free 
 
 ## 🚀 Fun Fact
 
-When I'm not coding, I enjoy  hiking, playing guitar, or exploring new coffee shops.
+When I'm not coding, I enjoy  hiking, exploring new coffee shops, games.
 
 ---
 
