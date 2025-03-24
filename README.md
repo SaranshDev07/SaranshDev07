@@ -1,12 +1,13 @@
 # Hi there, I'm Saransh Gautam 👋
 
-I'm a passionate full stack developer with expertise in **PHP**, **Laravel**, **React Native**, **Flutter**, **Dart** and **Firebase**. I love building cross-platform mobile applications that deliver seamless user experiences.
+I'm a passionate mobile app developer with expertise in **React Native**, **Flutter**, **Dart** and **Firebase**. I love building cross-platform mobile applications that deliver seamless user experiences.
 
 ## 🛠️ Technologies & Tools
 
-- **Frontend Mobile Development**: Jquery, Bootstrap, React Native, Flutter, Dart
-- **Backend & Database**: Firebase, PHP, Laravel, My SQL, PostgreSQL
+- **Frontend Mobile Development**: React Native, Flutter, Dart
+- **Backend & Database**: Firebase
 - **Version Control**: Git, GitHub
+- **State Management**: Bloc, Redux Saga
 - **Other Tools**: Android Studio, Xcode, VS Code
 
 ## 📫 Let's Connect!
